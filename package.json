@@ -8,8 +8,23 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "filepond": "^4.25.1",
+    "filepond-plugin-image-crop": "^2.0.4",
+    "filepond-plugin-image-exif-orientation": "^1.0.9",
+    "filepond-plugin-image-preview": "^4.6.4",
+    "filepond-plugin-image-resize": "^2.0.7",
+    "filepond-plugin-image-transform": "^3.7.4",
     "next": "^10.0.0",
+    "postcss": "^8.2.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-filepond": "^7.1.0",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.18",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.3"
   }
 }
