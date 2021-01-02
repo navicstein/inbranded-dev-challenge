@@ -141,11 +141,7 @@ export const ImageEditor: React.FC = () => {
         </button>
       </div>
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <div>
+      {/* <div>
         <div className="box" style={{ width: "50%", float: "right" }}>
           <h1>Preview</h1>
           <div
@@ -163,7 +159,7 @@ export const ImageEditor: React.FC = () => {
           <img style={{ width: "100%" }} src={cropData} alt="cropped image" />
         </div>
       </div>
-      <br style={{ clear: "both" }} />
+      <br style={{ clear: "both" }} /> */}
     </div>
   );
 };

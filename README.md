@@ -1,10 +1,10 @@
-## ╦┌┐┌┌┐ ┬─┐┌─┐┌┐┌┌┬┐┌─┐┌┬┐┬
-
-## ║│││├┴┐├┬┘├─┤│││ ││├┤ │││
-
-## ╩┘└┘└─┘┴└─┴ ┴┘└┘─┴┘└─┘─┴┘o
+&nbsp;╦┌┐┌┌┐ ┬─┐┌─┐┌┐┌┌┬┐┌─┐┌┬┐┬ <br/>
+&nbsp;║│││├┴┐├┬┘├─┤│││ ││├┤ │││ <br/>
+&nbsp;╩┘└┘└─┘┴└─┴ ┴┘└┘─┴┘└─┘─┴┘o <br/>
 
 ### FRONT END DEVELOPER CHALLENGE (inbranded.co)
+
+> Currently, just the `canvas state` and `croped box state` are saved in localstorage but can also be exported via json for download
 
 #### How to run
 
@@ -16,6 +16,8 @@
 
 ### About challenge
 
-- written with `React.js` (`Next.js`) & `Typescript`
+written with:
 
-> Currently, just the `canvas state` and `croped box state` are saved in localstorage but can also be exported via json for download
+- `React.js` (`Next.js`)
+- `Typescript` &
+- little or no `tailwind`
