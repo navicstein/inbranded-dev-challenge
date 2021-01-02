@@ -8,11 +8,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h4 className="title">
+      <div className="flex-auto text-xl font-semibold">
+        <h1>
           Welcome to <a href="https://nextjs.org">DEVELOPER CHALLENGE</a>
-        </h4>
-      </main>
+        </h1>
+      </div>
     </div>
   );
 }

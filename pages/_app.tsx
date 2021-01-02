@@ -1,5 +1,4 @@
-import "../public/styles.css";
-import { useEffect } from "react";
+import "tailwindcss/tailwind.css";
 import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {
